@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO 👋
 An ordinary universal student
 trying creating something fun🥰🥰🥰
 <!--
