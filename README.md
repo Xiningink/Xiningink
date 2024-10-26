@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+An ordinary universal student
+trying creating something fun🥰🥰🥰
 <!--
 **Xiningink/Xiningink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
